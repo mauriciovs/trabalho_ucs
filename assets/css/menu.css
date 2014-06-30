@@ -1,0 +1,10 @@
+.menu{
+    position: fixed;
+    background-color: #428BCA;
+    width: 100%;
+    padding: 1px 75px;
+    z-index: 1000;
+}
+.menu ul li a {
+    color: #fff !important;
+}

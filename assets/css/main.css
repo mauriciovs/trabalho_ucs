@@ -1,0 +1,41 @@
+.tabela {
+    width: 80%;
+    height: auto;
+    position: absolute;
+    top: 25%;
+    left: 10%;
+}
+#formulario {
+    position: absolute;
+    top: 50%;
+    left: 38%;
+}
+#formulario div {
+    float: left;
+}
+.botao_personalizado {
+    position: absolute;
+    left: 19%;
+}
+.input_personalizado {
+    position: absolute;
+    width: 143px;
+    left: 19%;
+    height: 33px;
+    opacity: -1;
+}
+.submit_personalizado {
+    position: relative;
+    left: 150%;
+}
+#bem_vindo {
+    position: absolute;
+    top: 10%;
+    left: 24%;
+    text-align: center;
+}
+#formulario_processar {
+    position: absolute;
+    top: 60%;
+    left: 29%;
+}
